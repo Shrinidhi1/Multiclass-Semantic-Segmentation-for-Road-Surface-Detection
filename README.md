@@ -7,7 +7,7 @@
 ## Model Training
 |Sl. No.| Model| Epochs| Mean IoU Score|
 |-|-|-|-|
-|1.|Unet|||
+|1.|Unet|20|0.26527|
 |2.|Unet with Resnet|100||
 |3.|Unet with InceptionNet|20||
 |4.|Unet with VGGnet|20||
