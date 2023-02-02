@@ -8,6 +8,6 @@
 |Sl. No.| Model| Epochs| Mean IoU Score on CV|
 |-|-|-|-|
 |1.|Unet|20|0.26527|
-|2.|Unet with Resnet|100|0.7297|
-|3.|Unet with InceptionNet|20|0.6633|
-|4.|Unet with VGGnet|20|0.6604|
+|2.|Unet with Resnet34|100|0.7297|
+|3.|Unet with InceptionNetV3|20|0.6633|
+|4.|Unet with VGGnet16|20|0.6604|
