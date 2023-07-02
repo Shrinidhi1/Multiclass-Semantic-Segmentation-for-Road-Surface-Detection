@@ -11,3 +11,5 @@
 |2.|Unet with Resnet34|100|0.7297|
 |3.|Unet with InceptionNetV3|20|0.6633|
 |4.|Unet with VGGnet16|20|0.6604|
+
+#### Deployed On Hugging Face: [Link](https://huggingface.co/spaces/shrinidhi-rh/Road-Surface-Detection)
