@@ -7,10 +7,11 @@
 ## Model Training
 |Sl. No.| Model| Epochs| Mean IoU Score on CV|
 |-|-|-|-|
-|1.|Unet|20|0.26527|
-|2.|Unet with Resnet34|100|0.7297|
-|3.|Unet with InceptionNetV3|20|0.6633|
-|4.|Unet with VGGnet16|20|0.6604|
+|1.|UNet|20|0.26527|
+|2.|UNet with ResNet18|20|0.6309|
+|3.|UNet with ResNet34|100|0.7297|
+|4.|UNet with InceptionNetV3|20|0.6633|
+|5.|UNet with VGGnet16|20|0.6604|
 
 ## Markings
 |Sl. No.| Color | Category|
